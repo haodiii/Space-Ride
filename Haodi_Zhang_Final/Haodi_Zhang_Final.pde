@@ -1,4 +1,4 @@
-// Maded by Haodi
+// Made by Haodi
 
 String message = "Welcome to Space Tour";
 float x, y; // X and Y coordinates of text
