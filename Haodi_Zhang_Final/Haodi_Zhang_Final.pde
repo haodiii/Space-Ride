@@ -1,3 +1,5 @@
+// Maded by Haodi
+
 String message = "Welcome to Space Tour";
 float x, y; // X and Y coordinates of text
 float hr, vr;  // horizontal and vertical radius of the text
