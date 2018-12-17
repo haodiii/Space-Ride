@@ -66,5 +66,11 @@ Finally, I want to add a sound to my project to make audience immerse in the env
 
 Screenshots
 
+<img width="790" alt="screen shot 2018-12-17 at 15 55 53" src="https://user-images.githubusercontent.com/43070342/50115338-0dc39100-0215-11e9-910b-abc991620b5b.png">
+<img width="787" alt="screen shot 2018-12-17 at 15 56 17" src="https://user-images.githubusercontent.com/43070342/50115350-187e2600-0215-11e9-8bfc-e9d911a509d6.png">
+<img width="771" alt="screen shot 2018-12-17 at 15 56 36" src="https://user-images.githubusercontent.com/43070342/50115351-1ae08000-0215-11e9-829f-0f83e6b08893.png">
+<img width="782" alt="screen shot 2018-12-17 at 15 56 46" src="https://user-images.githubusercontent.com/43070342/50115359-1caa4380-0215-11e9-8aa9-495e0a5bd79b.png">
+<img width="778" alt="screen shot 2018-12-17 at 15 56 53" src="https://user-images.githubusercontent.com/43070342/50115365-1fa53400-0215-11e9-8f68-2b98ac997704.png">
+
 
 
